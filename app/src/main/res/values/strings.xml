@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Clases</string>
-    <string name="nombre">Constantino Javier Chimal Sanchez</string>
+    <string name="title">Every Bite a</string>
+    <string name="subtitle">Better burger</string>
+    <string name="burger">Burger</string>
+    <string name="pasta">Pasta</string>
+    <string name="salad">Salad</string>
+
+
 
 </resources>
